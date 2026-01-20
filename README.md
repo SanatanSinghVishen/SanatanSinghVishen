@@ -4,7 +4,7 @@
 <div align="center">
   <h3>🚀 Full Stack Developer | AI Enthusiast | Competitive Programmer</h3>
   <p>
-    Results-driven B.Tech CSE student at <b>IIIT Nagpur</b> [cite: 4] with a passion for building scalable systems. 
+    Results-driven B.Tech CSE student at <b>IIIT Nagpur</b> with a passion for building scalable systems. 
     I specialize in bridging the gap between <b>Machine Learning</b> and <b>Full-Stack Web Development</b>.
   </p>
 </div>
@@ -16,15 +16,15 @@
 <table>
   <tr>
     <td width="60%">
-      I am currently a 3rd-year undergraduate [cite: 14] focused on engineering robust software solutions. My work ranges from building <b>AI-driven security pipelines</b> to architecting serverless resume optimization platforms.
+      I am currently a 3rd-year undergraduate  focused on engineering robust software solutions. My work ranges from building <b>AI-driven security pipelines</b> to architecting serverless resume optimization platforms.
       <br/ >
       <br/ >
-      Example work includes <b>Tracel</b>, where I achieved <50ms latency for anomaly detection [cite: 20], and <b>CVision</b>, a secure document analysis engine[cite: 23].
+      Example work includes <b>Tracel</b>, where I achieved <50ms latency for anomaly detection , and <b>CVision</b>, a secure document analysis engine[cite: 23].
       <br/ >
       <br/ >
-      🎓 <b>Education:</b> IIIT Nagpur (CGPA: 7.55) [cite: 4, 5]
+      🎓 <b>Education:</b> IIIT Nagpur (CGPA: 7.55)
       <br/ >
-      🧠 <b>Problem Solving:</b> Solved 300+ problems on Codeforces & 100+ on LeetCode[cite: 41].
+      🧠 <b>Problem Solving:</b> Solved 300+ problems on Codeforces & 100+ on LeetCode.
     </td>
     <td width="40%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanatanVisen&layout=compact&theme=dark" width="100%" />
