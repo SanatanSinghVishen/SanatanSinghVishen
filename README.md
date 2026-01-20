@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</div>
 
 <h1 align="center">Hi there, I'm Sanatan Singh! 👋</h1>
 
@@ -66,28 +63,3 @@
 </p>
 
 ---
-
-### 🧩 Project Ecosystem
-```mermaid
-mindmap
-  root((Sanatan Singh))
-    AI & Security
-      Tracel Pipeline
-        Isolation Forest
-        Socket.IO
-        Dockerized
-      Data Science
-        Pandas & NumPy
-        Scikit-learn
-    Full Stack Web
-      CVision
-        React & TypeScript
-        Supabase Auth
-        Llama-3 Integration
-      TravelStay
-        MERN Stack
-        Mapbox Integration
-    Problem Solving
-      Codeforces 300+
-      LeetCode 100+
-      C++ Mastery
