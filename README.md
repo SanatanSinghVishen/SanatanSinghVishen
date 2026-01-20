@@ -19,7 +19,7 @@
       I am currently a 3rd-year undergraduate  focused on engineering robust software solutions. My work ranges from building <b>AI-driven security pipelines</b> to architecting serverless resume optimization platforms.
       <br/ >
       <br/ >
-      Example work includes <b>Tracel</b>, where I achieved <50ms latency for anomaly detection , and <b>CVision</b>, a secure document analysis engine[cite: 23].
+      Example work includes <b>Tracel</b>, where I achieved <50ms latency for anomaly detection , and <b>CVision</b>, a secure document analysis engine.
       <br/ >
       <br/ >
       🎓 <b>Education:</b> IIIT Nagpur (CGPA: 7.55)
