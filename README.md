@@ -22,7 +22,7 @@
       Example work includes <b>Tracel</b>, where I achieved <50ms latency for anomaly detection , and <b>CVision</b>, a secure document analysis engine.
       <br/ >
       <br/ >
-      🎓 <b>Education:</b> IIIT Nagpur (CGPA: 7.55)
+      🎓 <b>Education:</b> IIIT Nagpur 
       <br/ >
       🧠 <b>Problem Solving:</b> Solved 300+ problems on Codeforces & 100+ on LeetCode.
     </td>
