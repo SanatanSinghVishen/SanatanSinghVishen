@@ -24,7 +24,7 @@
       <br/ >
       🎓 <b>Education:</b> IIIT Nagpur 
       <br/ >
-      🧠 <b>Problem Solving:</b> Solved 300+ problems on Codeforces & 100+ on LeetCode.
+      🧠 <b>Problem Solving:</b> Solved 350+ problems on Codeforces & 200+ on LeetCode.
     </td>
     <td width="40%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanatanVisen&layout=compact&theme=dark" width="100%" />
