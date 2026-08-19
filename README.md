@@ -22,10 +22,10 @@ I am a Computer Science Engineering undergraduate at **IIIT Nagpur** ('27) speci
 ### 🏆 Key Achievements & Recognitions
 
 - 🥇 **Flipkart GRiD 8.0 (2026) Semi-Finalist:** Advanced to Round 3 (Semi-Finals) across nationwide algorithmic & engineering tracks out of **165,000+** participants.
-- 🎯 **LeetCode Knight (Rating: 1794):** Ranked **1,084 / 36,775** in Weekly Contest 506 (**Top 2.9%** globally) with **450+** problems solved.
+- ⚔️ **Codeforces Pupil (Rating: 1318):** Ranked **1,641 / 24,284** in Round 1104 (**Top 6.8%** globally).Solved **350+** CP problems.
+- 🎯 **LeetCode (Rating: 1794):** Ranked **1,084 / 36,775** in Weekly Contest 506 (**Top 2.9%** globally) with **300+** problems solved.
 - 🏅 **Smart India Hackathon (SIH) 2025:** Secured **Rank 1** at the institutional evaluation out of **85+ teams**, advancing to the National Phase.
 - 💼 **Infosys HackWithInfy 2026:** Earned a **Pre-Placement Interview (PPI)** opportunity after clearing both online and offline coding rounds.
-- ⚔️ **Codeforces Pupil (Rating: 1318):** Ranked **1,641 / 24,284** in Round 1104 (**Top 6.8%** globally).
 
 ---
 
@@ -37,7 +37,7 @@ I am a Computer Science Engineering undergraduate at **IIIT Nagpur** ('27) speci
 | **🤖 Lumen** | `LangGraph` `FastAPI` `React` `ChromaDB` `Supabase` `LangSmith` | Autonomous Multi-Agent Research System. Features 5-stage agent orchestration, parallel web search, Hybrid RAG (BM25 + Dense embeddings), automated dual LLM evaluation, and HITL state checkpointers. | [🌐 Live Demo](https://lumen-frontend-one.vercel.app/) • [💻 Code](https://github.com/SanatanSinghVishen/Lumen) |
 | **⚡ Tracel** | `Python` `FastAPI` `Node.js` `Redis` `Scikit-Learn` `Socket.IO` `Docker` | Real-Time Network Traffic Analysis Platform. Event-driven backend processing 1,000+ events/min, isolating ML inference with Redis queues, and streaming telemetry to a 3D dashboard at <50ms latency. | [🌐 Live Demo](https://tracel-frontend.vercel.app) • [💻 Code](https://github.com/SanatanSinghVishen/Tracel) |
 | **📄 CVision** | `React Router v7` `Node.js` `PostgreSQL` `Redis` `BullMQ` `Groq Llama-3` | AI-Powered Resume Optimizer. Delivers structured ATS feedback at <500ms latency with Groq LLaMA-3.3, BullMQ background job queues, and SHA-256 prompt caching. | [🌐 Live Demo](https://cvision-frontend.vercel.app/) • [💻 Code](https://github.com/SanatanSinghVishen/CVision) |
-| **🏡 TravelStay** | `React.js` `Node.js` `Express` `MongoDB` `AWS EC2/S3` `Cloudinary` | Full-Stack Accommodation Listing Platform. Decoupled architecture with 11 REST endpoints, 3-tier middleware auth (JWT + HttpOnly cookies), and automated cloud media streaming. | [🌐 Live Demo](https://travel-stay-sigma.vercel.app/) • [💻 Code](https://github.com/SanatanSinghVishen/TravelStay) |
+| **🏡 TravelStay** | `React.js` `Node.js` `Express` `MongoDB` `AWS EC2/S3` `Cloudinary` | Full-Stack Accommodation Listing Platform. Decoupled architecture with 11 REST endpoints, 3-tier middleware auth (JWT + HttpOnly cookies), and automated cloud media streaming. | [🌐 Live Demo](https://travel-stay-sigma.vercel.app/) • [💻 Code](https://github.com/SanatanSinghVishen/TravelStay) 
 
 ---
 
