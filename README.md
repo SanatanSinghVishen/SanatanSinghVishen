@@ -24,7 +24,6 @@ I am a Computer Science Engineering undergraduate at **IIIT Nagpur** ('27) speci
 - ⚔️ **Codeforces Pupil (Rating: 1318):** Ranked **1,641 / 24,284** in Round 1104 (**Top 6.8%** globally).Solved **350+** CP problems.
 - 🎯 **LeetCode (Rating: 1794):** Ranked **1,084 / 36,775** in Weekly Contest 506 (**Top 2.9%** globally) with **300+** problems solved.
 - 🥇 **Flipkart GRiD 8.0 (2026) Semi-Finalist:** Advanced to Round 3 (Semi-Finals) across nationwide algorithmic & engineering tracks out of **165,000+** participants.
-- 🏅 **Smart India Hackathon (SIH) 2025:** Secured **Rank 1** at the institutional evaluation out of **85+ teams**, advancing to the National Phase.
 - 💼 **Infosys HackWithInfy 2026:** Earned a **Pre-Placement Interview (PPI)** opportunity after clearing both online and offline coding rounds.
 
 ---
